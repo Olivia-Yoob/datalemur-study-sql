@@ -29,8 +29,8 @@ FROM TABLE
 WHERE CONDITION 1
     AND/OR CONDITION 2
     AND/OR CONDITION 3;
-    
--- Besides narrowing down the results, the WHERE clause is important beacuse it speeds up a query, by avoding the processing of extra data.
+
+-- Besides narrowing down the results, the WHERE clause is important because it speeds up a query, by avoiding the processing of extra data.
 
 
 /* ============================================
