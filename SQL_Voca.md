@@ -11,3 +11,12 @@
 * along with
 * = has a ready-to-go negative complement of !=
 * negate the condition
+
+--------------- 5/23 -----------------
+* long-winded way
+* how tiresome
+* It's impractical to use ~
+* dissenting employee
+* explicitly re-orders : intentionally do sth
+* Let's dive into a real-world use case
+* yield the following ordered result
