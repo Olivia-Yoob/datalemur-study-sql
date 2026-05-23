@@ -20,3 +20,6 @@
 * explicitly re-orders : intentionally do sth
 * Let's dive into a real-world use case
 * yield the following ordered result
+* deriving insights
+* retrieves the largest value in a column
+* COUNT() function can tally the number of posts for each user, highlighting the most prolific contributors.
