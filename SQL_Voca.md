@@ -23,3 +23,10 @@
 * deriving insights
 * retrieves the largest value in a column
 * COUNT() function can tally the number of posts for each user, highlighting the most prolific contributors.
+
+--------------- 5/24 -----------------
+* common conceptual question
+* tackle problems
+* filter down VS filter on
+* in conjunction with
+* end up -ing
