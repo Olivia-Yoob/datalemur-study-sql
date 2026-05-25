@@ -1,4 +1,4 @@
--- DataLemur Lesson 205: SQL Arithmetic
+-- DataLemur Lesson 206: SQL Arithmetic
 -- Date: 2026-05-24
 
 -- example

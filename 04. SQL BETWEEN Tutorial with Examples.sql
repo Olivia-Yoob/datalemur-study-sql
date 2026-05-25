@@ -11,7 +11,7 @@
    FROM TABLE_NAME
    WHERE COLUMN_NAME BETWEEN VALUE1 AND VALUE2;
 
-   -- BETWEEN operator's range is inclusive. That meansa both the start and end values of the range are included!
+   -- BETWEEN operator's range is inclusive. That means both the start and end values of the range are included!
 
 /* ============================================
     📝 PRACTICE: SQL BETWEEN Practice Exercise

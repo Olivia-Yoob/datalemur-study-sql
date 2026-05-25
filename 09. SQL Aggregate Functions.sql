@@ -1,4 +1,4 @@
--- DataLemur Lesson 201: SQL SUM, AVG, COUNT
+-- DataLemur Lesson 202: SQL SUM, AVG, COUNT
 -- Date: 2026-05-23
 
 -- SUM : adds together all the values in a particular column (numeric value)

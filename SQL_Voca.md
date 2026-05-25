@@ -30,3 +30,21 @@
 * filter down VS filter on
 * in conjunction with
 * end up -ing
+
+--------------- 5/25 -----------------
+* irrespective of its sign.
+* handy
+* intrigued by
+* courtesy of 
+* looks deceptively easy
+* operands
+* ingenious technique involves
+* specifies the number of decimal places to round the result to
+* return on ad spend (ROAS)
+* COALESCE
+* In the realm of 
+* resort to 
+* retrieve = deliver
+* production bottlenecks
+* take inputs and return the value
+* Versatile for multiple arguments

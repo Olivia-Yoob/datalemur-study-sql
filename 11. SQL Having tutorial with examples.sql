@@ -1,4 +1,4 @@
--- DataLemur Lesson 203: SQL HAVING
+-- DataLemur Lesson 204: SQL HAVING
 -- Date: 2026-05-24
 
 -- ERROR. Aggregate function is not allowed in WHERE clause, because WHERE runs before grouping and aggregation happen.

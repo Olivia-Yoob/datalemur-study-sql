@@ -1,4 +1,4 @@
--- DataLemur Lesson 202: SQL GROUP BY
+-- DataLemur Lesson 203: SQL GROUP BY
 -- Date: 2026-05-23
 
 -- use GROUP BY if you want to aggregate only part of a table

@@ -1,4 +1,4 @@
--- DataLemur Lesson 204: SQL DISTINCT
+-- DataLemur Lesson 205: SQL DISTINCT
 -- Date: 2026-05-24
 
 -- DISTINCT is used in conjunction with the SELECT statement to return only distinct values.
