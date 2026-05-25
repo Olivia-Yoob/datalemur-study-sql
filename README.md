@@ -5,26 +5,26 @@ Practice queries from [DataLemur SQL Tutorial](https://datalemur.com/sql-tutoria
 ## Progress
 
 ### Basic SQL
-- [ ] Lesson 101: Tutorial Intro
-- [ ] Lesson 102: SQL SELECT
-- [ ] Lesson 103: SQL WHERE
-- [ ] Lesson 104: AND, OR, NOT
-- [ ] Lesson 105: SQL BETWEEN
-- [ ] Lesson 106: SQL IN
-- [ ] Lesson 107: SQL LIKE
-- [ ] Lesson 108: Filtering Review
-- [ ] Lesson 109: SQL ORDER BY
+- [✅] Lesson 101: Tutorial Intro
+- [✅] Lesson 102: SQL SELECT
+- [✅] Lesson 103: SQL WHERE
+- [✅] Lesson 104: AND, OR, NOT
+- [✅] Lesson 105: SQL BETWEEN
+- [✅] Lesson 106: SQL IN
+- [✅] Lesson 107: SQL LIKE
+- [✅] Lesson 108: Filtering Review
+- [✅] Lesson 109: SQL ORDER BY
 
 ### Intermediate SQL
-- [ ] Lesson 201: Intermediate SQL Intro
-- [ ] Lesson 202: SUM, AVG, COUNT
-- [ ] Lesson 203: SQL GROUP BY
-- [ ] Lesson 204: SQL HAVING
-- [ ] Lesson 205: SQL DISTINCT
-- [ ] Lesson 206: SQL Arithmetic
-- [ ] Lesson 207: Math Functions
-- [ ] Lesson 208: SQL Division
-- [ ] Lesson 209: SQL NULL
+- [✅] Lesson 201: Intermediate SQL Intro
+- [✅] Lesson 202: SUM, AVG, COUNT
+- [✅] Lesson 203: SQL GROUP BY
+- [✅] Lesson 204: SQL HAVING
+- [✅] Lesson 205: SQL DISTINCT
+- [✅] Lesson 206: SQL Arithmetic
+- [✅] Lesson 207: Math Functions
+- [✅] Lesson 208: SQL Division
+- [✅] Lesson 209: SQL NULL
 - [ ] Lesson 210: SQL CASE
 - [ ] Lesson 211: SQL JOINs
 - [ ] Lesson 212: Date Functions
