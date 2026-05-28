@@ -48,3 +48,7 @@
 * production bottlenecks
 * take inputs and return the value
 * Versatile for multiple arguments
+
+--------------- 5/29 -----------------
+* count occurrences
+* cumulative value
