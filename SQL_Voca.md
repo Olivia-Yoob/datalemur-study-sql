@@ -52,3 +52,11 @@
 --------------- 5/29 -----------------
 * count occurrences
 * cumulative value
+
+--------------- 6/01 -----------------
+* almost always
+* which is why
+* By nesting queries within parentheses
+* enable granular control over your data
+* Recursive Queries
+* traversing hierarchical data like organizational structures or threaded discussions
